@@ -1,0 +1,4 @@
+﻿{
+  "api_key": "YOUR_STEAM_WEB_API_KEY",
+  "log_path": "C:\\Program Files (x86)\\Steam\\logs\\ipc_SteamClient.log"
+}

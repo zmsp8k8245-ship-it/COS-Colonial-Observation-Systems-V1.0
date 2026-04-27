@@ -49,7 +49,7 @@ Example:
 - Press `Windows + R`
 - Run `steam://open/console`
 - Enter `log_ipc 1`
-(log_ipc 0 to stop it)
+
 5. Start COS:
 
 ```text
